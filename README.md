@@ -13,5 +13,3 @@ The source of the dataset  - Amazon Reviews data (http://jmcauley.ucsd.edu/data/
 - **ratings**
 - **timestamp**
 
----
-### Imports and Configurations
